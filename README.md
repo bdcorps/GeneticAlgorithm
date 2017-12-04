@@ -41,8 +41,13 @@ Gen n.
 
 3. Pick up two sentences for reproduction based on their fitness probabality. The more fit, the more likely to be picked.
   a. Crossover - Create another sentence by combining the two.
+  
+  
   b. Mutation - Randomly change characters of the sentence based on probability.
+  
+  
   c. Add to population.
+  
   
 4. Replace the old pool of sentences with the new one. Repeat until maxFitness score is 1. 
   
