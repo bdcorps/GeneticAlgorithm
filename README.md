@@ -40,6 +40,8 @@ Gen n.
 2. Come up with fitness function and evaluate each sentence using said function.
 
 3. Pick up two sentences for reproduction based on their fitness probabality. The more fit, the more likely to be picked.
+
+
   a. Crossover - Create another sentence by combining the two.
   
   
